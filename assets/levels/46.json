@@ -1,0 +1,10 @@
+{
+  "row": 5,
+  "column": 5,
+  "matrix": [[1, 1,1,1,1],[1, 0,1,0,1],[1, 0,1,0,1],[1, 0, 1,0,1],[1, 0, 1,0,1]],
+  "widthGap": 0.03,
+  "heightGap": 0.02,
+  "brickBrokenHits" : 2,
+  "brickWidth" : 0.3,
+  "brickHeight" : 0.07
+}
